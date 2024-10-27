@@ -1,0 +1,15 @@
+/* Home Styles */
+.home {
+  display: flex; /* Use flexbox for layout */
+  flex-direction: column; /* Stack items vertically */
+  align-items: center; /* Center align items horizontally */
+  padding: 20px; /* Add padding around the container */
+}
+
+/* Specific styles for h1 in Home Component */
+.home h1 {
+  color: #333; /* Dark grey color for the heading */
+  text-align: center; /* Center the heading */
+  margin: 20px 0; /* Space above and below heading */
+  font-size: 2rem; /* Font size for heading */
+}
